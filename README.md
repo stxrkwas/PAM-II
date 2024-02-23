@@ -1,2 +1,2 @@
 # PAM-II
-Repositório para os arquivos do exercícios em Kotlin de PAM 2.
+Repositório privado com os arquivos compactados de PAM 2.
