@@ -1,2 +1,2 @@
 # PAM-II
-Repositório privado com os arquivos compactados de PAM 2.
+Repositório com os arquivos de PAM 2.
