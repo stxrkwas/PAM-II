@@ -5,4 +5,16 @@
 - <b>Parte 1:</b>
   - Fazer os exercícios do arquivo anexo.
 
-- Parte 2: 
+- <b>Parte 2:</b>
+
+  - Crie uma função que calcule:
+    
+    - Área do retângulo;
+    - Área dos triângulos:
+      - Triângulo Equilátero;
+      - Triângulo Isósceles;
+      - Triângulo Escaleno.
+    - Área da circunferência;
+    - Área do losango;
+    - Área do trapézio.
+    
